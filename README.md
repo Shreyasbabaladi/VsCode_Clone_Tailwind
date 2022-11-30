@@ -7,10 +7,6 @@ https://project-4-live-link.netlify.app/ -->
 This assignment is written in **HTML5 and Tailwind** which is given in **"JavaScript 2.0 Full Stack Web Developer Bootcamp"** by **iNeuron**.
 
 
-<br>
-
-![Screenshot](./output.png "Template Screenshot")
-
 ## 📌 What I Learn
 
     👉 Structuring tailwind
